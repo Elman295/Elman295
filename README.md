@@ -4,8 +4,8 @@
 
 
 
-- 🔭 I’m currently working on ML
-- 🌱 I’m currently learning Image Classification
+
+- 🌱 I’m currently learning Ml
 
 
 
