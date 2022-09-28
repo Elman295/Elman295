@@ -1,13 +1,6 @@
 
-        <style type='text/css'>
-            div {
-                width: auto;
-                background: black;
-                color: white;
-            }
-        </style>
 
-<div>
+<div style:{backgroung:black}>
 
 ### Hi there 👋
 
