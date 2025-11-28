@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elman295&label=Profile%20views&color=0e75b6&style=flat" alt="elman295" /> </p>
 
-- 🔭 I’m currently working on **Self-driving cars**
+- 🔭 I’m currently working on **Remote Sensing**
 
 - 🌱 I’m currently learning **PyTorch, numpy, Sklearn and ...**
 
